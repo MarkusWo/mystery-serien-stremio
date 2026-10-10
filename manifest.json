@@ -1,0 +1,22 @@
+{
+  "id": "de.markus.mystery-serien",
+  "version": "1.0.0",
+  "name": "Mystery Serien",
+  "description": "47 Mystery-Serien aus dem r/serienjunkies Reddit-Thread.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "series"
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "mystery-serien",
+      "name": "Mystery Serien"
+    }
+  ]
+}

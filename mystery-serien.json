@@ -1,0 +1,286 @@
+{
+  "metas": [
+    {
+      "id": "tt1119644",
+      "type": "series",
+      "name": "Fringe",
+      "poster": "https://images.metahub.space/poster/medium/tt1119644/img"
+    },
+    {
+      "id": "tt0098936",
+      "type": "series",
+      "name": "Twin Peaks",
+      "poster": "https://images.metahub.space/poster/medium/tt0098936/img"
+    },
+    {
+      "id": "tt14688458",
+      "type": "series",
+      "name": "Silo",
+      "poster": "https://images.metahub.space/poster/medium/tt14688458/img"
+    },
+    {
+      "id": "tt9813792",
+      "type": "series",
+      "name": "From",
+      "poster": "https://images.metahub.space/poster/medium/tt9813792/img"
+    },
+    {
+      "id": "tt9319668",
+      "type": "series",
+      "name": "1899",
+      "poster": "https://images.metahub.space/poster/medium/tt9319668/img"
+    },
+    {
+      "id": "tt0106179",
+      "type": "series",
+      "name": "The X-Files",
+      "poster": "https://images.metahub.space/poster/medium/tt0106179/img"
+    },
+    {
+      "id": "tt1865718",
+      "type": "series",
+      "name": "Gravity Falls",
+      "poster": "https://images.metahub.space/poster/medium/tt1865718/img"
+    },
+    {
+      "id": "tt9055008",
+      "type": "series",
+      "name": "Evil",
+      "poster": "https://images.metahub.space/poster/medium/tt9055008/img"
+    },
+    {
+      "id": "tt4635282",
+      "type": "series",
+      "name": "The OA",
+      "poster": "https://images.metahub.space/poster/medium/tt4635282/img"
+    },
+    {
+      "id": "tt8421350",
+      "type": "series",
+      "name": "Manifest",
+      "poster": "https://images.metahub.space/poster/medium/tt8421350/img"
+    },
+    {
+      "id": "tt13365348",
+      "type": "series",
+      "name": "Archive 81",
+      "poster": "https://images.metahub.space/poster/medium/tt13365348/img"
+    },
+    {
+      "id": "tt19231492",
+      "type": "series",
+      "name": "Dark Matter",
+      "poster": "https://images.metahub.space/poster/medium/tt19231492/img"
+    },
+    {
+      "id": "tt2234222",
+      "type": "series",
+      "name": "Orphan Black",
+      "poster": "https://images.metahub.space/poster/medium/tt2234222/img"
+    },
+    {
+      "id": "tt21057450",
+      "type": "series",
+      "name": "School Spirits",
+      "poster": "https://images.metahub.space/poster/medium/tt21057450/img"
+    },
+    {
+      "id": "tt1553656",
+      "type": "series",
+      "name": "Under the Dome",
+      "poster": "https://images.metahub.space/poster/medium/tt1553656/img"
+    },
+    {
+      "id": "tt0407362",
+      "type": "series",
+      "name": "Battlestar Galactica",
+      "poster": "https://images.metahub.space/poster/medium/tt0407362/img"
+    },
+    {
+      "id": "tt18347622",
+      "type": "series",
+      "name": "Bodies",
+      "poster": "https://images.metahub.space/poster/medium/tt18347622/img"
+    },
+    {
+      "id": "tt0115270",
+      "type": "series",
+      "name": "Millennium",
+      "poster": "https://images.metahub.space/poster/medium/tt0115270/img"
+    },
+    {
+      "id": "tt0460681",
+      "type": "series",
+      "name": "Supernatural",
+      "poster": "https://images.metahub.space/poster/medium/tt0460681/img"
+    },
+    {
+      "id": "tt1830617",
+      "type": "series",
+      "name": "Grimm",
+      "poster": "https://images.metahub.space/poster/medium/tt1830617/img"
+    },
+    {
+      "id": "tt12637874",
+      "type": "series",
+      "name": "Fallout",
+      "poster": "https://images.metahub.space/poster/medium/tt12637874/img"
+    },
+    {
+      "id": "tt15227418",
+      "type": "series",
+      "name": "A Murder at the End of the World",
+      "poster": "https://images.metahub.space/poster/medium/tt15227418/img"
+    },
+    {
+      "id": "tt15787870",
+      "type": "series",
+      "name": "The Snow Girl",
+      "poster": "https://images.metahub.space/poster/medium/tt15787870/img"
+    },
+    {
+      "id": "tt1232320",
+      "type": "series",
+      "name": "Harper's Island",
+      "poster": "https://images.metahub.space/poster/medium/tt1232320/img"
+    },
+    {
+      "id": "tt1312171",
+      "type": "series",
+      "name": "The Umbrella Academy",
+      "poster": "https://images.metahub.space/poster/medium/tt1312171/img"
+    },
+    {
+      "id": "tt2431438",
+      "type": "series",
+      "name": "Sense8",
+      "poster": "https://images.metahub.space/poster/medium/tt2431438/img"
+    },
+    {
+      "id": "tt0112111",
+      "type": "series",
+      "name": "The Outer Limits",
+      "poster": "https://images.metahub.space/poster/medium/tt0112111/img"
+    },
+    {
+      "id": "tt5114356",
+      "type": "series",
+      "name": "Legion",
+      "poster": "https://images.metahub.space/poster/medium/tt5114356/img"
+    },
+    {
+      "id": "tt2188671",
+      "type": "series",
+      "name": "Bates Motel",
+      "poster": "https://images.metahub.space/poster/medium/tt2188671/img"
+    },
+    {
+      "id": "tt11041332",
+      "type": "series",
+      "name": "Yellowjackets",
+      "poster": "https://images.metahub.space/poster/medium/tt11041332/img"
+    },
+    {
+      "id": "tt2618986",
+      "type": "series",
+      "name": "Wayward Pines",
+      "poster": "https://images.metahub.space/poster/medium/tt2618986/img"
+    },
+    {
+      "id": "tt2708480",
+      "type": "series",
+      "name": "The Terror",
+      "poster": "https://images.metahub.space/poster/medium/tt2708480/img"
+    },
+    {
+      "id": "tt0813715",
+      "type": "series",
+      "name": "Heroes",
+      "poster": "https://images.metahub.space/poster/medium/tt0813715/img"
+    },
+    {
+      "id": "tt13016388",
+      "type": "series",
+      "name": "3 Body Problem",
+      "poster": "https://images.metahub.space/poster/medium/tt13016388/img"
+    },
+    {
+      "id": "tt0436992",
+      "type": "series",
+      "name": "Doctor Who",
+      "poster": "https://images.metahub.space/poster/medium/tt0436992/img"
+    },
+    {
+      "id": "tt14852808",
+      "type": "series",
+      "name": "The Watcher",
+      "poster": "https://images.metahub.space/poster/medium/tt14852808/img"
+    },
+    {
+      "id": "tt0138956",
+      "type": "series",
+      "name": "Beyond Belief: Fact or Fiction",
+      "poster": "https://images.metahub.space/poster/medium/tt0138956/img"
+    },
+    {
+      "id": "tt2356777",
+      "type": "series",
+      "name": "True Detective",
+      "poster": "https://images.metahub.space/poster/medium/tt2356777/img"
+    },
+    {
+      "id": "tt6763664",
+      "type": "series",
+      "name": "The Haunting of Hill House",
+      "poster": "https://images.metahub.space/poster/medium/tt6763664/img"
+    },
+    {
+      "id": "tt7569592",
+      "type": "series",
+      "name": "Chilling Adventures of Sabrina",
+      "poster": "https://images.metahub.space/poster/medium/tt7569592/img"
+    },
+    {
+      "id": "tt13443470",
+      "type": "series",
+      "name": "Wednesday",
+      "poster": "https://images.metahub.space/poster/medium/tt13443470/img"
+    },
+    {
+      "id": "tt5180504",
+      "type": "series",
+      "name": "The Witcher",
+      "poster": "https://images.metahub.space/poster/medium/tt5180504/img"
+    },
+    {
+      "id": "tt1837654",
+      "type": "series",
+      "name": "The Secret Circle",
+      "poster": "https://images.metahub.space/poster/medium/tt1837654/img"
+    },
+    {
+      "id": "tt0944947",
+      "type": "series",
+      "name": "Game of Thrones",
+      "poster": "https://images.metahub.space/poster/medium/tt0944947/img"
+    },
+    {
+      "id": "tt33332385",
+      "type": "series",
+      "name": "Widow's Bay",
+      "poster": "https://images.metahub.space/poster/medium/tt33332385/img"
+    },
+    {
+      "id": "tt15557828",
+      "type": "series",
+      "name": "Oderbruch",
+      "poster": "https://images.metahub.space/poster/medium/tt15557828/img"
+    },
+    {
+      "id": "tt9698442",
+      "type": "series",
+      "name": "Behind Her Eyes",
+      "poster": "https://images.metahub.space/poster/medium/tt9698442/img"
+    }
+  ]
+}
